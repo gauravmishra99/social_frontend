@@ -1,0 +1,21 @@
+.profile{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.profile_pic{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.profile__btn{
+  padding: 5px;
+  border: none;
+  color: blueviolet;
+  font-weight: 500;
+  font-size: large;
+  margin-right: 15px;
+}

@@ -1,0 +1,42 @@
+/* Dashboard */
+.dashboard{
+  margin-bottom: 10px;
+}
+.navigation__links{
+  width: inherit;
+}
+
+.navigation__items{
+  text-decoration: none;
+  font-size: large;
+  font-weight: 500;
+  color: blueviolet;
+}
+
+.search__form{
+  display: flex;
+  min-width: 90px;
+}
+
+.form__input{
+  margin-right: 10px;
+}
+
+.logout__btn{
+  padding: 5px;
+  background: none;
+  border: none;
+  color: blueviolet;
+  font-weight: 500;
+  font-size: large;
+}
+
+.logout__btn:hover{
+  color: blue;
+}
+
+.dashboard__search_div{
+  width: ;
+  min-height: 40px;
+  background-color: black;
+}
